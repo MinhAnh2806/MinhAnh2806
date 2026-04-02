@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @MinhAnh2806
-- 🎓 I'm an undergraduate student, class of 2022, majoring in Computer Engineering
-- 👀 I’m interested in human, life, and technology
+- 🎓 I'm a Bucknell University alumni, class of 2022, majoring in Computer Engineering
+- 👀 I’m interested in everything
 - 🌱 I’m currently learning how to adult properly
-- 💞️ I’m looking to collaborate on projects that spark joy
 - 📫 Reach me by DM
 
 <!---
